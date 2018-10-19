@@ -30,5 +30,9 @@ namespace midterm1.Controllers
         {
             return View();
         }
+        public ActionResult Store()
+        {
+            return View();
+        }
     }
 }
